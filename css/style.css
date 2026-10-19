@@ -246,6 +246,7 @@ p { margin: 0; }
 .subhead p { margin-top: 12px; color: var(--dim); font-size: 16.5px; }
 
 .note { font-size: 13.5px; color: var(--dimmer); line-height: 1.55; }
+.note a { color: var(--teal-deep); border-bottom: 1px solid rgba(4, 153, 140, .3); }
 
 /* --------------------------------------------------------------------- intro */
 

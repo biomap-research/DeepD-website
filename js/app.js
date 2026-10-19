@@ -3,7 +3,7 @@
   'use strict';
 
   /* Set this to the preprint URL once it is public; every [data-preprint] link picks it up. */
-  const PREPRINT_URL = '';
+  const PREPRINT_URL = 'https://doi.org/10.64898/2026.10.13.758170';
 
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
